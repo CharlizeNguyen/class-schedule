@@ -25,7 +25,7 @@
     height: 76px;
     font-family: $font-alegreya;
     font-size: 16px;
-    color: white;
+    color: rgb(212, 212, 212);
 
     &__title {
         @include border-left();
